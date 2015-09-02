@@ -4,6 +4,9 @@
 
 WHEN I turn on Firefox OS
 THEN homescreen shows up!
-WHEN Make a phone call
-THEN It works!
 
+## fxos.func.sanity.gerry_first_test_case1
+`active`
+
+WHEN I turn off Firefox OS
+THEN device is shut down
